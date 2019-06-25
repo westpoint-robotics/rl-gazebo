@@ -1,0 +1,1 @@
+	git remote add gh git@github.com:westpoint-robotics/rl-gazebo.git
