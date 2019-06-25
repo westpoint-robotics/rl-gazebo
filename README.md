@@ -7,4 +7,5 @@
 	cd ~/ros && catkin build rl-gazebo
 
 ## To launch system
-	roslaunch rl-gazebo 
+	roslaunch rl_kobuki sim.launch
+	

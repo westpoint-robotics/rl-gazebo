@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>rl-gazebo-robots</name>
+  <name>rl_gazebo_robots</name>
   <version>0.0.0</version>
   <description>The robot_descriptions package</description>
 

@@ -13,7 +13,7 @@ find_package(catkin REQUIRED COMPONENTS
   roscpp
   sensor_msgs
   std_msgs
-  hast_gazebo_msgs
+  rl_gazebo_msgs
   tf
   tf2_ros
 )
@@ -92,13 +92,7 @@ catkin_package(
     ardrone_ros_baro 
     ardrone_simple_controller
     ardrone_state_controller
-    # hast_vicon_diff_drive
-    # hector_gazebo_ros_baro 
-    # hector_gazebo_quadrotor_simple_controller
-    # hector_gazebo_quadrotor_state_controller
     reset_plugin 
-    # gazebo_vicon_diff_drive
-    # gazebo_ros_kobuki
    CATKIN_DEPENDS 
     gazebo_plugins
     geometry_msgs
@@ -108,7 +102,7 @@ catkin_package(
     sensor_msgs
     std_msgs
     image_transport 
-    hast_gazebo_msgs
+    rl_gazebo_msgs
    DEPENDS 
     # system_lib
     tf

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>rl-gazebo-plugins</name>
+  <name>rl_gazebo_plugins</name>
   <version>0.0.0</version>
   <description>The robot_plugins package</description>
   <maintainer email="benjamin@todo.todo">benjamin</maintainer>
@@ -10,7 +10,7 @@
   <build_depend>gazebo_plugins</build_depend>
   <build_depend>gazebo_ros</build_depend>
   <build_depend>geometry_msgs</build_depend>
-  <build_depend>hast_gazebo_msgs</build_depend>
+  <build_depend>rl_gazebo_msgs</build_depend>
   <build_depend>image_transport</build_depend>
   <build_depend>kobuki_msgs</build_depend>
   <build_depend>nav_msgs</build_depend>
@@ -23,7 +23,7 @@
   <run_depend>gazebo_plugins</run_depend>
   <run_depend>gazebo_ros</run_depend>
   <run_depend>geometry_msgs</run_depend>
-  <run_depend>hast_gazebo_msgs</run_depend>
+  <run_depend>rl_gazebo_msgs</run_depend>
   <run_depend>image_transport</run_depend>
   <run_depend>kobuki_msgs</run_depend>
   <run_depend>nav_msgs</run_depend>
