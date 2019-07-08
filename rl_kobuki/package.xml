@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package>
 <!-- <package format="2"> -->
-	<name>hast_gazebo</name>
+	<name>rl_kobuki</name>
 	<version>0.0.0</version>
-	<description>The hast_gazebo package</description>
+	<description>The rl_kobuki package</description>
 	<maintainer email="benjamin@todo.todo">benjamin</maintainer>
 	<license>TODO</license>
 

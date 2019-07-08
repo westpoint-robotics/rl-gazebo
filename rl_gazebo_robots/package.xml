@@ -2,7 +2,7 @@
 <package format="2">
   <name>rl_gazebo_robots</name>
   <version>0.0.0</version>
-  <description>The robot_descriptions package</description>
+  <description>The rl_gazebo_robots package</description>
 
   <maintainer email="benjamin@todo.todo">benjamin</maintainer>
   <license>TODO</license>

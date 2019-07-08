@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(hast_gazebo_msgs)
+project(rl_gazebo_msgs)
 
 find_package(catkin REQUIRED COMPONENTS
   geometry_msgs message_generation
